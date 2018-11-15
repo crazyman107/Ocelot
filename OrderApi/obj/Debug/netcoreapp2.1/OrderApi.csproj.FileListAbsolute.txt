@@ -1,0 +1,17 @@
+D:\project\demo\OcelotDemo\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.deps.json
+D:\project\demo\OcelotDemo\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.json
+D:\project\demo\OcelotDemo\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.runtimeconfig.dev.json
+D:\project\demo\OcelotDemo\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.dll
+D:\project\demo\OcelotDemo\OrderApi\bin\Debug\netcoreapp2.1\OrderApi.pdb
+D:\project\demo\OcelotDemo\OrderApi\bin\Debug\netcoreapp2.1\OcelotDemo.Models.dll
+D:\project\demo\OcelotDemo\OrderApi\bin\Debug\netcoreapp2.1\OcelotDemo.Models.pdb
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csprojAssemblyReference.cache
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csproj.CoreCompileInputs.cache
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorAssemblyInfo.cache
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorAssemblyInfo.cs
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfoInputs.cache
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.AssemblyInfo.cs
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.RazorTargetAssemblyInfo.cache
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.csproj.CopyComplete
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.dll
+D:\project\demo\OcelotDemo\OrderApi\obj\Debug\netcoreapp2.1\OrderApi.pdb

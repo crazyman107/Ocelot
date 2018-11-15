@@ -1,0 +1,17 @@
+D:\project\demo\OcelotDemo\GoodApi\bin\Debug\netcoreapp2.1\GoodApi.deps.json
+D:\project\demo\OcelotDemo\GoodApi\bin\Debug\netcoreapp2.1\GoodApi.runtimeconfig.json
+D:\project\demo\OcelotDemo\GoodApi\bin\Debug\netcoreapp2.1\GoodApi.runtimeconfig.dev.json
+D:\project\demo\OcelotDemo\GoodApi\bin\Debug\netcoreapp2.1\GoodApi.dll
+D:\project\demo\OcelotDemo\GoodApi\bin\Debug\netcoreapp2.1\GoodApi.pdb
+D:\project\demo\OcelotDemo\GoodApi\bin\Debug\netcoreapp2.1\OcelotDemo.Models.dll
+D:\project\demo\OcelotDemo\GoodApi\bin\Debug\netcoreapp2.1\OcelotDemo.Models.pdb
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.csprojAssemblyReference.cache
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.csproj.CoreCompileInputs.cache
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.RazorAssemblyInfo.cache
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.RazorAssemblyInfo.cs
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.AssemblyInfoInputs.cache
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.AssemblyInfo.cs
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.RazorTargetAssemblyInfo.cache
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.csproj.CopyComplete
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.dll
+D:\project\demo\OcelotDemo\GoodApi\obj\Debug\netcoreapp2.1\GoodApi.pdb

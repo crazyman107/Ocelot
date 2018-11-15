@@ -1,0 +1,8 @@
+D:\project\demo\OcelotDemo\OcelotDemo.Models\bin\Debug\netcoreapp2.1\OcelotDemo.Models.deps.json
+D:\project\demo\OcelotDemo\OcelotDemo.Models\bin\Debug\netcoreapp2.1\OcelotDemo.Models.dll
+D:\project\demo\OcelotDemo\OcelotDemo.Models\bin\Debug\netcoreapp2.1\OcelotDemo.Models.pdb
+D:\project\demo\OcelotDemo\OcelotDemo.Models\obj\Debug\netcoreapp2.1\OcelotDemo.Models.csproj.CoreCompileInputs.cache
+D:\project\demo\OcelotDemo\OcelotDemo.Models\obj\Debug\netcoreapp2.1\OcelotDemo.Models.AssemblyInfoInputs.cache
+D:\project\demo\OcelotDemo\OcelotDemo.Models\obj\Debug\netcoreapp2.1\OcelotDemo.Models.AssemblyInfo.cs
+D:\project\demo\OcelotDemo\OcelotDemo.Models\obj\Debug\netcoreapp2.1\OcelotDemo.Models.dll
+D:\project\demo\OcelotDemo\OcelotDemo.Models\obj\Debug\netcoreapp2.1\OcelotDemo.Models.pdb
